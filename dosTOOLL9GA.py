@@ -17,7 +17,7 @@ except ImportError:
 app_name = "L9GA-DOS TOOL"
 app_version = "v1"
 app_website = "https://l9ga.com.tr/"
-app_discord = "https://discord.gg/pgKC8vBq5u"
+app_discord = "https://discord.gg/kemalizm"
 app_author = "L9GA TEAM"
 app_description = "L9GA-DOS TOOL, birden fazla iş parçacığı kullanarak dağıtılmış hizmet reddi (DoS) saldırıları gerçekleştirmek için güçlü ve kullanımı kolay bir GUI uygulamasıdır."
 app_license = "MIT License"
